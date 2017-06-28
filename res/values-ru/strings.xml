@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
   <string name="label_action_no_action">Нет действия</string>
-  <string name="label_action_settings_panel">Панель QS</string>
+  <string name="label_action_settings_panel">Панель быстрых настроек</string>
   <string name="label_action_notification_panel">Панель уведомлений</string>
   <string name="label_action_screenshot">Скриншот</string>
   <string name="label_action_region_screenshot">Скриншот выбранной области экрана</string>
